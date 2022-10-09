@@ -20,11 +20,8 @@ author: Janhavi Ghuge
 ###############################################
 
 navbar-links:
-  About Me: ""
-  Projects:
-    - eCommerce Database Analysis : "https://github.com/ghugejanhavi/eCommerce_database_analysis_MySQL"
-    - Predictive Maintainence :
-  Resume: "https://ghugejanhavi.github.io/resume.pdf"
+  About Me: "about_me"
+  Projects: "projects.md"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
@@ -35,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/janhavi_photo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
