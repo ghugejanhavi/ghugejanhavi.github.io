@@ -20,7 +20,7 @@ author: Janhavi Ghuge
 ###############################################
 
 navbar-links:
-  About Me: "_"
+  About Me: "aboutme"
   Projects: "projects"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
