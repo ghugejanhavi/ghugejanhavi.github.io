@@ -21,10 +21,13 @@ author: Janhavi Ghuge
 
 navbar-links:
   About Me: ""
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - eCommerce Database Analysis : "https://github.com/ghugejanhavi/eCommerce_database_analysis_MySQL"
+    - Predictive Maintainence :
+  Resume: "https://ghugejanhavi.github.io/resume.pdf"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
