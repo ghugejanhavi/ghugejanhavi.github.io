@@ -20,11 +20,12 @@ author: Janhavi Ghuge
 ###############################################
 
 navbar-links:
-  About Me: "about_me"
-  Projects: "projects.md"
+  About Me: "home"
+  Projects: "projects"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
+  Resume : "Janhavi_Ghuge_Resume_Data_Analyst.pdf"
 
 ################
 # --- Logo --- #
@@ -91,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "ghugejanhavi.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
